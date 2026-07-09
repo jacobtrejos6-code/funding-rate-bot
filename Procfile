@@ -1,1 +1,1 @@
-worker: python funding_rate_railway.py
+worker: python main.py
